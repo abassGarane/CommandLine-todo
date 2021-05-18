@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "I am planning on saving more",
+      "complete": false
+    },
+    {
+      "title": "I Want to fall in love",
+      "complete": true
+    },
+    {
+      "title": "I want to start cooking again",
+      "complete": false
+    },
+    {
+      "title": "Start saving for my future",
+      "complete": false
+    }
+  ]
+}
